@@ -1,8 +1,16 @@
 {
-  "posts": [
+  "bars": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "name1",
+      "address": "address1",
+      "city": "Sevilla"
+    }
+    {
+      "id": 3,
+      "name": "name3",
+      "address": "address3",
+      "city": "Malaga"
     }
   ],
   "profile": {
