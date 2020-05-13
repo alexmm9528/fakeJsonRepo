@@ -4,19 +4,22 @@
       "id": 1,
       "name": "name1",
       "address": "address1",
-      "city": "Sevilla"
+      "city": "Sevilla",
+      "freeTables": 3
     },
     {
       "id": 2,
       "name": "name2",
       "address": "address2",
-      "city": "Sevilla"
+      "city": "Sevilla",
+      "freeTables": 7
     },
     {
       "id": 3,
       "name": "name3",
       "address": "address3",
-      "city": "Malaga"
+      "city": "Malaga",
+      "freeTables": 1
     }
   ],
   "profile": {
